@@ -1,0 +1,29 @@
+canvas
+{
+margin: 10px;
+box-shadow: 5px 5px 5px grey;
+padding: 10px;
+}
+
+body
+{
+    text-align: center;
+    background-size: cover;
+}
+
+.note
+{
+background-color:darkblue;
+font-size: Large;
+color: white;
+}
+
+.footer
+{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    color: white;
+    line-height: 3;
+}
